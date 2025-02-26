@@ -1,0 +1,6 @@
+,total_packets,avg_packet_size,ip_packets,tcp_packets,tls_packets,protocols
+Web Surfing Edge.Pcapng,11180,1074.1742397137746,7998,11034,2399,"{'TLS': 2399, 'TCP': 8395, 'MDNS': 64, 'IGMP': 4, 'ICMPV6': 22, 'DHCPV6': 2, 'DNS': 278, 'BROWSER': 1, 'ARP': 1, 'HTTP': 2, 'DATA-TEXT-LINES': 2, 'DATA': 1, 'SSDP': 9}"
+Audio Streaming.Pcapng,12152,1074.4891375905202,922,8867,1687,"{'MDNS': 167, 'DATA': 255, 'TLS': 1687, 'TCP': 7152, 'ICMPV6': 21, 'DNS': 438, 'QUIC': 2386, 'SSDP': 28, 'HTTP': 5, 'XML': 2, 'NTP': 2, 'JSON': 1, 'AJP13': 8}"
+Video Conferencing.Pcapng,15294,852.0765659735844,12628,3750,1480,"{'TLS': 1480, 'TCP': 2264, 'ICMPV6': 20, 'DNS': 160, 'MDNS': 4, 'HTTP': 3, 'DATA-TEXT-LINES': 3, 'DATA': 11335, 'QUIC': 6, 'ICMP': 1, 'NTP': 2, 'CLASSICSTUN': 4, 'ARP': 6, 'IGMP': 4, '_WS.MALFORMED': 1, 'BROWSER': 1}"
+Video Streaming.Pcapng,37498,1187.7688410048536,29346,36746,6687,"{'TLS': 6687, 'TCP': 29838, 'DATA': 259, 'DNS': 344, 'QUIC': 264, 'SSDP': 15, 'MDNS': 66, 'ICMPV6': 21, 'NTP': 2, 'ARP': 2}"
+Web Surfing Chrome.Pcapng,19234,448.19652698346675,11786,12347,3113,"{'TLS': 3113, 'DNS': 1389, 'NTP': 2, 'MDNS': 59, 'QUIC': 6304, 'TCP': 8324, 'ICMPV6': 14, 'DATA': 2, 'AJP13': 3, 'ARP': 2, 'IGMP': 4, 'ICMP': 18}"
